@@ -31,6 +31,7 @@ This project uses the following Python packages:
 ## Installation
 1. Clone this repository.
 2. Install the necessary Python packages. You can do this by running `pip install -r requirements.txt` in your terminal.
+3. To gain access to the pkl.txt file, you may need to run the IPython Notebook (.ipynb) files. Running these files will allow you to execute the necessary code and generate the pkl.txt file. Once generated, you can then access and utilize the pkl.txt file for further processing or analysis.
 
 ## Usage
 1. Run the Streamlit app with the command `streamlit run app.py`.
