@@ -3,6 +3,9 @@
 ## Project Overview
 The Movie Recommendation System is a content-based filtering system that recommends movies to users based on their preferences and the similarity of movie content. It solves the problem of helping users discover new movies that align with their interests and preferences.
 
+## Case Study
+Coming Soon
+
 ## Technical Details
 The recommendation system in this project is based on the concept of content-based filtering. This approach recommends items by comparing the content of the items to a user profile. The content of each item is represented as a set of descriptors, such as the words in a document. The user profile is represented with the same descriptors.
 
